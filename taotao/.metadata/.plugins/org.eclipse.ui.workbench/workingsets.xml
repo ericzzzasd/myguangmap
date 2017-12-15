@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1513302210009_1" label="guangmao" name="guangmao">
+<item elementID="=guangmao-common" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/guangmao-parent/pom.xml" type="1"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/guangmao-parent" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/guangmao-manager" type="4"/>
+<item elementID="=guangmao-manager-dao" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=guangmao-manager-pojo" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=guangmao-manager-interface" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=guangmao-manager-service" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=guangmao-manager-web" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1513302174345_0" label="Window Working Set" name="Aggregate for window 1513302174345"/>
+<mruList name="guangmao"/>
+</workingSetManager>
